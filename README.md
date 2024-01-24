@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Dr. Ohm, an electrical engineer interested in programming.
+I am Dr. Ohm, a German electrical engineer working as a planner in technical building services and interested in programming, mainly in python.
 
-You can find me on <a rel="me" href="https://drohm.eu/@drohm">Mastodon</a>
+You can find me also on <a rel="me" href="https://drohm.eu/@drohm">Mastodon</a>
 
 <!--
 **drohmd/drohmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
