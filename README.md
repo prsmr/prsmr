@@ -1,5 +1,9 @@
 ### Hi there 👋
-<a rel="me" href="https://drohm.eu/@drohm">Mastodon</a>
+
+I am Dr. Ohm, an electrical engineer interested in programming.
+
+You can find me on <a rel="me" href="https://drohm.eu/@drohm">Mastodon</a>
+
 <!--
 **drohmd/drohmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
